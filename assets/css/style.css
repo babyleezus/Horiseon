@@ -14,12 +14,14 @@
     color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 100%;
-    height: 700px
+    height: 70px
 }
 
 .header h1{
     font-size: 50px;
-    
+    display: inline;
+    padding-top: 25px;
+    padding-left: 15px;
 }
 
 .seo {
@@ -46,55 +48,85 @@
 
 a {
     color: white;
-    text-decoration: none; /*stops texts from being underline*/
+    text-decoration: none; /*stops texts from being underlined*/
+}
+
+.header img {
+    width: 100%;
+    margin-top: 10px;
+
 }
 
 .content{
-    width: 75%;
-    
+    width: 70%;
+    margin-top: 20px;
+    float: left;
 }
 
 .search-engine-optimization h2 {
     font-size: 25px;
+    padding-bottom: 15px;
 }
 
 .search-engine-optimization {
     background-color: steelblue;
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     font-size: 14px;
+    height: 220px;
+    
+}
+
+.search-engine-optimization img {
+    float: left;
 }
 
 .online-reputation-management h2 {
     font-size: 25px;
+    padding-bottom: 15px;
 }
 
 .online-reputation-management {
     background-color: steelblue;
-    padding: 10px; 
+    padding: 20px; 
     margin: 10px; 
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     font-size: 14px;
+    height: 220px;
 }
 
+.online-reputation-management img {
+    float: right;
+}
 .social-media-marketing h2 {
     font-size: 25px;
+    padding-bottom: 15px;
 }
 
 .social-media-marketing {
     background-color: steelblue;
-    padding: 10px;
+    padding: 20px;
     margin: 10px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
     font-size: 14px;
+    height: 220px;
+}
+
+.social-media-marketing img {
+    float: left;
 }
 
 .benefits {
+    float: right;
     width: 20%;
     background-color: steelblue;
     display: inline-block;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    text-align: center;
+    padding: 15px;
 }
