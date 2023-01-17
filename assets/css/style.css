@@ -14,7 +14,7 @@ body {
     color: white;
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     width: 100%;
-    height: 70px
+    height: 90px
 }
 
 .header h1{
@@ -49,6 +49,7 @@ body {
 a {
     color: white;
     text-decoration: none; /*stops texts from being underlined*/
+    display: inline-block;
 }
 
 .header img {
