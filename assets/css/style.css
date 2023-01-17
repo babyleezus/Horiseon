@@ -54,7 +54,47 @@ a {
     
 }
 
+.search-engine-optimization h2 {
+    font-size: 25px;
+}
+
 .search-engine-optimization {
     background-color: steelblue;
     padding: 10px;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+.online-reputation-management h2 {
+    font-size: 25px;
+}
+
+.online-reputation-management {
+    background-color: steelblue;
+    padding: 10px; 
+    margin: 10px; 
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+.social-media-marketing h2 {
+    font-size: 25px;
+}
+
+.social-media-marketing {
+    background-color: steelblue;
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: white;
+    font-size: 14px;
+}
+
+.benefits {
+    width: 20%;
+    background-color: steelblue;
+    display: inline-block;
 }
