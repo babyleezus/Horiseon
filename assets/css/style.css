@@ -59,7 +59,7 @@ a {
 
 .content{
     width: 80%;
-    margin-top: 20px;
+    margin-top: 765px;
     float: left;
 }
 
@@ -70,7 +70,7 @@ a {
 }
 
 .search-engine-optimization {
-    background-color: steelblue;
+    background-color: #0072bb;
     padding: 30px;
     margin: 10px;
     margin-right: -30px;
@@ -93,7 +93,7 @@ a {
 }
 
 .online-reputation-management {
-    background-color: steelblue;
+    background-color: #0072bb;
     padding: 30px; 
     margin: 10px; 
     margin-right: -30px;
@@ -114,7 +114,7 @@ a {
 }
 
 .social-media-marketing {
-    background-color: steelblue;
+    background-color: #0072bb;
     padding: 30px;
     margin: 10px;
     margin-right: -30px;
@@ -132,11 +132,11 @@ a {
 .benefits {
     float: right;
     margin-right: 10px;
-    margin-top: 30px;
+    margin-top: 775px;
     margin-bottom: 30px;
     width: 15%;
     
-    background-color: steelblue;
+    background-color: #2589bd;
     display: inline-block;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     color: white;
